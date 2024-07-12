@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kumbh Sans', Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+p, span{
+    color: var(--text-color-padrao);
+}

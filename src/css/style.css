@@ -1,0 +1,43 @@
+.conteudo{
+    display: flex;
+    background-color: var(--fundo-padrao);
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.cartao{
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    width: 350px;
+    height: 400px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 25px;
+}
+.cartao img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: center;
+}
+.container-lista-informacoes .lista-informacoes .item-lista{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+hr{
+    width: 100%;
+    border-top: solid hsla(185, 75%, 39%, 0.212);
+}
