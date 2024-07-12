@@ -20,4 +20,4 @@ git clone url do projeto
 ```
 2- Acesse a pasta do projeto e abra com o code (VSCode)
 
-[<img src="./src/imagens/pasta.png" alt="imagem da pasta abrindo com code">]
+[<img src="./src/design/pasta.png" alt="imagem da pasta abrindo com code">]
